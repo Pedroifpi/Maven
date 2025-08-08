@@ -1,4 +1,3 @@
-
 package br.edu.ifpi.Model;
 public class Cliente extends PessoaFisica implements Autenticavel {
     private String senha;
